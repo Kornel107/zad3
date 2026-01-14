@@ -1,0 +1,12 @@
+h2{
+	font-size: 40px;
+	color: red;
+}
+td{
+	 font-style: italic
+}
+p{  text-transform: uppercase
+}
+tr{
+	background-color: green
+}
